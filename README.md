@@ -2,7 +2,7 @@
 
 To install from your terminal:
 
--Clone this repository to your local machine |
+- Clone this repository to your local machine |
 `git clone https://github.com/helenpidoulas/node-react-weather-app`
 
 - Navigate to the repo on your machine, and install the dependencies from `package.json` |
